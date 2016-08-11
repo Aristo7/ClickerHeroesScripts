@@ -14,3 +14,4 @@ CTRL-ALT-p to pause/continue the script
 1. support multiple target gilds
 2. there are issues when target gild is too high up the list
 3. there are issues detecting when the target goal is completely reach and there are no wrong gilds left
+4. add way to slow down the script if the app is lagging or just runs slower

@@ -4,7 +4,7 @@
 	if IsClickerHeroes()
 	{	
 		; Important settings!
-		Maximum_Runs := 2000
+		Maximum_Runs := 1000
 		Row_To_Guild := 2
 		Column_To_Guild := 2	
 	
